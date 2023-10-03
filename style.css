@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+}
+
+h1{
+    color: #091156;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 2.4px;
+    display: inline-block;
+    padding-right: 220px;
+}
+
+ul{
+    list-style: none;
+    display: inline-block;
+}
+
+li{
+    color: #8B8B8B;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1.6px; 
+    display: inline-block;
+    margin: 45px;
+}
+
+#Home{
+    color: #414880; 
+}
+
+a{
+    text-decoration: none;
+    color: #8B8B8B;
+}
+
+.ContactUs{
+    font-family: Poppins;
+    display: inline-block;
+}
+
+.ContactUs h3{
+    font-family: Poppins;
+    font-size: 20px;
+    color: #FF64AE;
+}
+
+.container{
+    margin: 0 auto;
+    text-align: center;
+}
+
+#Contact{
+    text-decoration: none;
+    padding: 15px 35px;
+    color: white;
+    border-radius: 50px;
+    background: #FF64AE;
+}
